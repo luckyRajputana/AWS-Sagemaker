@@ -4,6 +4,12 @@
 
 ```2. AWS organizaton fundamentals - https://www.youtube.com/watch?v=-HsfTwdRxRI```
 
+# Amazon SSO
+
+``` 1. https://www.youtube.com/watch?v=6QoLRUtOrCg ```
+
+``` 2. https://www.youtube.com/watch?v=3IEjQhjCdts ```
+
 # Amazon Sagemaker
 
 
@@ -21,4 +27,4 @@ Amazon SageMaker Ground Truth helps you build training datasets for machine lear
 ```3. Model Monitor link : https://aws.amazon.com/sagemaker/pricing/```
 
 ## SageMaker Pipelines
-```Amazon re-invent 2021 on pipelines : https://www.youtube.com/watch?v=Hvz2GGU3Z8g```
+```1. Amazon re-invent 2021 on pipelines : https://www.youtube.com/watch?v=Hvz2GGU3Z8g```
