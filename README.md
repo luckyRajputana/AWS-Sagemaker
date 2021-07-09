@@ -1,3 +1,8 @@
+# Amazon Organization
+
+```1. SCP (service control policies) - https://www.youtube.com/watch?v=_50P0o14Ul0```
+```2. AWS organizaton fundamentals - https://www.youtube.com/watch?v=-HsfTwdRxRI```
+
 # Amazon Sagemaker
 
 
@@ -9,10 +14,10 @@ Amazon SageMaker Ground Truth helps you build training datasets for machine lear
 
 ```1. Amazon re-invent 2020 on Model drift in production ": https://www.youtube.com/watch?v=J9T0X9Jxl_w```
 
-```Model drift code : https://github.com/sirimuppala/amazon-sagemaker-multi-model-endpoints-model-monitoring/tree/master/model-monitoring```
+```2. Model drift code : https://github.com/sirimuppala/amazon-sagemaker-multi-model-endpoints-model-monitoring/tree/master/model-monitoring```
 
 
-```2. Model Monitor link : https://aws.amazon.com/sagemaker/pricing/```
+```3. Model Monitor link : https://aws.amazon.com/sagemaker/pricing/```
 
 ## SageMaker Pipelines
 ```Amazon re-invent 2021 on pipelines : https://www.youtube.com/watch?v=Hvz2GGU3Z8g```
