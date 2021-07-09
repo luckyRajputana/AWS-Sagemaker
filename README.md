@@ -1,6 +1,7 @@
 # Amazon Organization
 
 ```1. SCP (service control policies) - https://www.youtube.com/watch?v=_50P0o14Ul0```
+
 ```2. AWS organizaton fundamentals - https://www.youtube.com/watch?v=-HsfTwdRxRI```
 
 # Amazon Sagemaker
